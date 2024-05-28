@@ -1,0 +1,1 @@
+# Projeto de Serviços de Previsão do Tempo utilizando TypeScript
